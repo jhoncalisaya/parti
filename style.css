@@ -12,7 +12,7 @@ body{
     width: 70px;
     background-color:yellow;
     position: relative;
-    box-shadow: 10px 10px 90px yellow;
+    box-shadow: 10px 10px 90px red;
     animation: animHeart .6s linear infinite;
 }
 @keyframes animHeart{
@@ -40,7 +40,7 @@ body{
     box-shadow: -10 10px 90px red;
     height: 70px;
     width: 70px;
-    background-color: yellow;
+    background-color: red;
     right: -50%;
     border-radius: 50%;
 }
