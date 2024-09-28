@@ -29,15 +29,15 @@ body{
     position: absolute;
     height: 70px;
     width: 70px;
-    background-color: yellow;
-    box-shadow: 10px 10px 90px yellow;
+    background-color: red ;
+    box-shadow: 10px 10px 90px red;
     top: -50%;
     border-radius: 50%;
 }
 .heart::after{
     content: "";
     position: absolute;
-    box-shadow: -10 10px 90px yellow;
+    box-shadow: -10 10px 90px red;
     height: 70px;
     width: 70px;
     background-color: yellow;
